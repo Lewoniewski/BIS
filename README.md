@@ -4,7 +4,7 @@ International Conference on Business Information Systems
 <div align="center">
 		<picture>
 		  <source media="(min-width: 720px)" srcset="header.svg">
-		  <img src="header.svg" width="600" height="1200" alt="Click to see the source">
+		  <img src="editions.svg" width="600" height="1200" alt="Click to see the source">
 		</picture>
 	<br>
 </div>
