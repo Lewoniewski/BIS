@@ -5,28 +5,16 @@ International Conference on Business Information Systems
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
 <style>
-
- .prevbis a {text-decoration: none;outline: none;}
-
+.prevbis a {text-decoration: none;outline: none;}
     #wrapperbz {width: 100%;background: #ffffff;position: relative;}
-
     #wrapperbz .prevbis{display: block;overflow: hidden;}
-
     .prevbis ul{width:100%;margin-right: 0;float: none;overflow: hidden;list-style: none;}
-    
     .prevbis ul li{ position: relative;height:34px;border-bottom:1px solid #ccc;background:#fff; padding: 5px;}
-        
     .prevbis ul li a {display: block;text-decoration: none;outline: none;font-size: 16px;font-family: arial;word-wrap:break-word;overflow:hidden;padding: 0 80px 0 0;height: 31px;z-index: 2;position: relative; font-weight:Bold;color:#555555 !important; text-transform: capitalize;}
     .prevbis ul li span { position:absolute; right: 0; top: 0; width: 60px;text-align: center;font-size:20px;font-family: arial;height: 100%;line-height: 31px;font-weight: normal;z-index: 1;color:#fff;background:#4a7fbb;}
     .prevbis ul li:hover span{color: #000;transition:all  0.5s ease 0s;background:#fff}
     .prevbis li:hover{transition:all  0.5s ease 0s;background:#cccccc}
-
-
 .prevbis li:hover a{transition:all  0.5s ease 0s;color:#fff !important;}
-
-
-
-
 .prevbis ul li.rk2025 span{color:#1b5e11; background: #fff;  border-left:solid 5px #ccc;}
 .prevbis ul li.rk2025:hover span{color: #000;transition:all  0.5s ease 0s;border-color:#1b5e11; background:#fff;}
 .prevbis li.rk2025:hover a{transition:all  0.5s ease 0s;color:#1b5e11 !important;}
