@@ -1,6 +1,6 @@
 # BIS
 International Conference on Business Information Systems
-* [Source code in HTML](editions.html)
+* List of the BIS editions - [source code in HTML](editions.html)
 * [BIS website](https://bisconf.org)
   
 <div align="center">
